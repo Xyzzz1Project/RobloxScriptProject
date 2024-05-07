@@ -1,0 +1,11 @@
+if game.PlaceId == 2788229376 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Xyzzz1Project/RobloxScriptProject/main/ShooKiHub.lua"))()
+end
+
+if not game.PlaceId == 2788229376 and 9872472334 then
+game.Players.LocalPlayer:Kick("Game Not Support!!!")
+end
+
+
+if game.PlaceId == 9872472334 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Xyzzz1Project/RobloxScriptProject/main/ShooKiHub%20Evade"))()
